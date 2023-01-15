@@ -1,13 +1,10 @@
-title: Rewarding Contributors in DAOs
-key: rewarding-contributors-in-daos
+title: Asset Tokenization
+key: asset-tokenization
 summary: >
-  Learn how to reward contributors in DAOs by looking at case studies of some other DAOs, and also tool that enable
-  rewarding contributors
+  This course gives introduction to asset tokenization and also covers some of the platforms that
+  can be used for the same
 highlights:
   - Introduction
-  - Bankless
-  - DIA DAO
-  - Arrow DAO
 publishStatus: Draft
 thumbnail: https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/DeFi/defi_logo.jpeg
 details: >-
@@ -17,6 +14,6 @@ topics:
   - key: intoduction
     title: Intoduction
     details: >+
-      Rewarding Contributors
+      Asset Tokenization
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
