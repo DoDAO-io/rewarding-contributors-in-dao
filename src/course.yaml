@@ -9,7 +9,8 @@ highlights:
   - DIA DAO
   - Arrow DAO
 publishStatus: Draft
-thumbnail: https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/rewarding_contributors_course.png
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/rewarding_contributors_course.png
 details: In this course we first ....
 duration: 30 mins - 1 hour
 topics:
@@ -17,6 +18,12 @@ topics:
     title: Intoduction
     details: |
       Rewarding Contributors
+  - key: bankless-dao
+    title: Bankless DAO
+    details: >-
+      Bankless DAO is focused on onboarding 1 Billion people to web3. It does
+      this by building the media rails required for people to learn about the
+      crypto space.
 courseAdmins:
   - '0x47a67e14b3804dc652b3a3200d8c00d4f55abb6b'
 coursePassContent: Pass content of Course !!!!!!!!!!
