@@ -54,3 +54,22 @@
       key: 0866df88
     - content: Tech
       key: 7ca50015
+- uuid: 4d0ffd6f-623e-4117-ade8-07b83d517fc1
+  type: MultipleChoice
+  content: DIA DAO uses Dework to manage which of the following? (Select two options)
+  hint: NoHint
+  explanation: AD
+  answerKeys:
+    - A
+    - 9365f15c
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Tasks
+      key: A
+    - content: Attendance
+      key: 7f76cdfc
+    - content: Meetings
+      key: 893509d9
+    - content: Roles
+      key: 9365f15c
