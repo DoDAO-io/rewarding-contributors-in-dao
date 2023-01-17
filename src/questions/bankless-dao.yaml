@@ -108,3 +108,23 @@
       key: 93e772cc
     - content: L1 members can give to guest pass holders
       key: d6efd73c
+- uuid: bedb5f2a-ed95-486a-a507-3a482c06bb71
+  type: SingleChoice
+  content: >-
+    The process for distributing rewards to contributors on Coordinape is known
+    as?
+  hint: NoHint
+  explanation: A
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Round
+      key: A
+    - content: Circle
+      key: 280cdd8d
+    - content: GIVE
+      key: d2ace2e0
+    - content: Share
+      key: d10c92cc
