@@ -360,6 +360,15 @@
           ]
         }
       ]
+    },
+    {
+      "key": "dia-dao",
+      "title": "DIA DAO",
+      "details": "A multi-chain oracle that connects decentralized applications to multiple data sources.",
+      "explanations": [],
+      "readings": [],
+      "summaries": [],
+      "questions": []
     }
   ]
 }

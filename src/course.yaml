@@ -27,6 +27,11 @@ topics:
     explanations: bankless-dao.yaml
     readings: bankless-dao.yaml
     questions: bankless-dao.yaml
+  - key: dia-dao
+    title: DIA DAO
+    details: >-
+      A multi-chain oracle that connects decentralized applications to multiple
+      data sources.
 courseAdmins:
   - '0x47a67e14b3804dc652b3a3200d8c00d4f55abb6b'
 coursePassContent: Pass content of Course !!!!!!!!!!
