@@ -90,3 +90,21 @@
       key: 33ac3400
     - content: Tally
       key: aa6c3c94
+- uuid: dba8d0ae-4e88-42a0-a59b-54e8ec1a86a5
+  type: SingleChoice
+  content: In a guest pass circle, which of these statements is NOT correct?
+  hint: NoHint
+  explanation: B
+  answerKeys:
+    - 0bffd4f2
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Guest pass holders can receive from L1 and L2 members
+      key: A
+    - content: L2 members can give to L1 members
+      key: 0bffd4f2
+    - content: L2 members can give to guest pass holders
+      key: 93e772cc
+    - content: L1 members can give to guest pass holders
+      key: d6efd73c
