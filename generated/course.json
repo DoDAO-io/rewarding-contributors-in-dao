@@ -148,6 +148,36 @@
               "key": "2507eeee"
             }
           ]
+        },
+        {
+          "uuid": "c19c9b0b-4a74-480e-b645-0e177c15810d",
+          "type": "SingleChoice",
+          "content": "Contributors are placed in groups based on skills and experience so they can maximize work. What are these groups called?",
+          "hint": "NoHint",
+          "explanation": "A",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Guilds",
+              "key": "A"
+            },
+            {
+              "content": "Stewards",
+              "key": "fd1a7030"
+            },
+            {
+              "content": "Units",
+              "key": "cc0eb9cf"
+            },
+            {
+              "content": "Factions",
+              "key": "3d334af4"
+            }
+          ]
         }
       ]
     }
