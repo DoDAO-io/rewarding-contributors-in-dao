@@ -520,6 +520,36 @@
               "key": "9365f15c"
             }
           ]
+        },
+        {
+          "uuid": "ab21ccc8-b958-4946-b61a-8b36cc060171",
+          "type": "SingleChoice",
+          "content": "Contributors earn XP s they complete tasks. What is the dollar value XPs earned for work within the $0 - $100 range?",
+          "hint": "NoHint",
+          "explanation": "C",
+          "answerKeys": [
+            "7827701d"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "2x",
+              "key": "A"
+            },
+            {
+              "content": "5x",
+              "key": "31722f5e"
+            },
+            {
+              "content": "10x",
+              "key": "7827701d"
+            },
+            {
+              "content": "8x",
+              "key": "3b0850f6"
+            }
+          ]
         }
       ]
     }
