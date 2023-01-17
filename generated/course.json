@@ -580,6 +580,36 @@
               "key": "c578254a"
             }
           ]
+        },
+        {
+          "uuid": "e0ddef15-69cd-4e28-837b-4aa859715479",
+          "type": "SingleChoice",
+          "content": "What is the reward for the winner of the weekly leaderboard?",
+          "hint": "NoHint",
+          "explanation": "A",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "500 XP",
+              "key": "A"
+            },
+            {
+              "content": "800 XP",
+              "key": "5d55d1f5"
+            },
+            {
+              "content": "200 XP",
+              "key": "1d5fb6c8"
+            },
+            {
+              "content": "100 XP",
+              "key": "c8fe6564"
+            }
+          ]
         }
       ]
     }
