@@ -93,3 +93,23 @@
       key: 7827701d
     - content: 8x
       key: 3b0850f6
+- uuid: edafaf44-d94a-45c3-bd19-72fd50e7b2a6
+  type: SingleChoice
+  content: >-
+    When a contributor is upgraded from the #DAO-Applicant role, what role is
+    next?
+  hint: NoHint
+  explanation: D
+  answerKeys:
+    - c578254a
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: DAO Leader
+      key: A
+    - content: DAO Ambassador
+      key: 2fcb2b58
+    - content: DAO Advocate
+      key: 05e0fb9c
+    - content: DAO Contributor
+      key: c578254a
