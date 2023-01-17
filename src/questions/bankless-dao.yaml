@@ -1,0 +1,18 @@
+- uuid: 1deb6a3a-7f5b-4543-beac-6517876ef8e5
+  type: SingleChoice
+  content: Which of these is NOT a project executed by Bankless DAO?
+  hint: NoHint
+  explanation: B
+  answerKeys:
+    - e52d690f
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Degen Project
+      key: A
+    - content: Bankless Startup
+      key: e52d690f
+    - content: Bankless Consulting
+      key: f739ea9d
+    - content: Bankless Consulting Bankless Loans
+      key: 4ea49ffe
