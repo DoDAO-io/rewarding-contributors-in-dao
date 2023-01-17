@@ -16,3 +16,21 @@
       key: 4768787d
     - content: Community development
       key: 50940b89
+- uuid: da0055b9-6545-4b4f-9d2d-681a4f4c6211
+  type: SingleChoice
+  content: Which of these is NOT a core goal for DIA DAO?
+  hint: NoHint
+  explanation: B
+  answerKeys:
+    - '27183528'
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Awareness and Engagement
+      key: A
+    - content: Research and Development
+      key: '27183528'
+    - content: Product Development
+      key: 0dd2e84e
+    - content: Community Ownership and Governance
+      key: 5b6eb0da
