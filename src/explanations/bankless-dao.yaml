@@ -172,3 +172,211 @@
     GIVE becomes 10% of the total tokens available. 10% multiplied by 1,000 BANK
     tokens equals 100 BANK tokens.
   title: How are Contributors Compensated?
+- key: how-is-bankless-dao-using-coordinape
+  shortTitle: 'Tool: Coordinape'
+  details: >-
+    Coordinape being the central compensation platform on Bankless DAO is used
+    to distribute tokens on a monthly basis. The process for distribution is
+    known as a Coordinape round which is a monthly period where GIVE tokens are
+    allocated to contributors. Each round goes through four stages before it is
+    completed.
+
+
+    1. Submission: Every member of the DAO submits a form with relevant
+    information such as their Discord ID,  wallet address, membership type, and
+    other necessary information requested by the DAO.
+
+    2. Upload to Coordinape: Upon submission by active contributors for the
+    month, the admin takes the information submitted and uploads it to their
+    respective Coordinape circles.
+
+    3. Allocation Period: After the upload is completed, contributors will now
+    be able to choose other contributors to gift as a way of compensating them
+    for work done in that month.
+
+    4. Payout: At the end of the round the grants committee will allocate BANK
+    tokens to contributors based on the number of GIVE received in that round.
+
+
+    There are two rounds through which Bankless DAO uses Coordinape to
+    distribute compensation in form of rounds. These rounds are highlighted
+    below:
+
+
+    * Bankless DAO Coordinape Round
+
+    * Guild/Project Coordinape Round
+
+
+    **Bankless DAO Coordinape Round**
+
+
+    This is a monthly round that occurs across the DAO to compensate
+    contributors for that month. In this round, contributors are placed in the
+    L1, L2, or Guest Pass Circle.
+
+
+    For L1 circle, L1 members can both give and receive from other contributors,
+    L2 can only give and guest pass cannot be on this circle. For L2 circle, L1
+    members can only give, L2 members can both give and receive while guest pass
+    cannot join this circle. Finally, for the guest pass circle, both L1 and L2
+    members can only give while guest pass members can only receive. 
+
+
+    * L1 Circle - L1 and L2 can give, but only L1 can receive
+
+    * L2 Circle - L1 and L2 can give, but only L2 can receive
+
+    * Guest Pass Circle - L1 and L2 can give, but only Guest Pass can receive
+
+
+    For clarity, the table below highlights the different circles and their
+    responsibilities.
+
+
+    <table>
+      <tr>
+       <td>
+       </td>
+       <td>L1 Circle
+       </td>
+       <td>L2 Circle
+       </td>
+       <td>Guest Pass Circle
+       </td>
+      </tr>
+      <tr>
+       <td>L1 Members
+       </td>
+       <td>Can Give and Receive
+       </td>
+       <td>Can Give Only
+       </td>
+       <td>Can Give Only
+       </td>
+      </tr>
+      <tr>
+       <td>L2 Members
+       </td>
+       <td>Can Give Only
+       </td>
+       <td>Can Give and Receive
+       </td>
+       <td>Can Give Only
+       </td>
+      </tr>
+      <tr>
+       <td>Guest Pass Holders
+       </td>
+       <td>Not Allowed
+       </td>
+       <td>Not Allowed
+       </td>
+       <td>Can Receive Only
+       </td>
+      </tr>
+    </table>
+
+
+    When organizing the round, the primary coordinator handles the process and
+    there are certain steps that are required.
+
+
+    1. A calendar is set up months ahead with dates for each round. A sample is
+    shown below:
+
+
+    ![alt_text](images/image1.jpg "image_tooltip")
+
+
+    2. Set up three Google forms for L1, L2, and guest pass circles. 
+
+    3. Ensure Degen is synced with the forms by going to the #degen-general
+    channel on Discord and asking the team to load up the three forms for
+    distribution.
+
+    4. Submit the form links to the Degen team
+
+    5. Test the form in #bot-commands channel on Discord to confirm that the
+    automation is live before the submission period begins.
+
+    6. Announce the submission period on Discord, Community Calls and Weekly
+    Newsletters continuously for at least one week before the date.
+
+    7. Open the links for submissions while still announcing.
+
+    8. Hand over the data 1 - 2 days before submission ends so that the team can
+    give Coordnipae ample time to bulk upload the data from the forms.
+
+    9. Announce allocation period to community members once uploading is
+    completed. 
+
+    10. Once the allocation period is completed, the CSV file is exported and
+    the GIVE values are converted to BANK before being loaded to Gnosis and the
+    details of the transactions posted on Discord.
+
+    11. The Grants Committee then approves the multisig for payment in 1 - 2
+    days.
+
+
+    **Guild/Project Coordinape Round**
+
+
+    The guild/project Coordinape round is specific to each guild. It could be at
+    the end of every month or at the end of a season (three month period within
+    which focused work is done). For this round, only those who are a part of
+    the guild running the round can join the circle. Usually, leaders of these
+    guilds add contributors to guild circles and at any time contributors
+    allocate GIVE to fellow contributors, routine tasks are carried out by the
+    community to ensure that only active contributors get rewarded for work
+    done.
+
+
+    For the round to take place, the following steps need to be taken for the
+    smooth allocation of tokens to contributors.
+
+
+    1. Set up a Google Form or a Tally depending on the guild
+
+    2. Get members to sign up on the forms and submit information such as
+    Discord handle and wallet address. They can also provide information about
+    whether they have been actively contributing and what they have done within
+    the period
+
+    3. Go to Coordinape and create the epoch (the round) by clicking on ‘Create
+    Epoch’ (This is assuming you are an admin and the circle has been set up
+    before now).
+
+
+    ![alt_text](images/image2.png "image_tooltip")
+
+
+    4. Set the duration and the start date of the epoch (allocation period).
+
+    5. Upon creation of the epoch, confirm that the members listed are the same
+    as those on the submission form.
+
+    6. If a contributor changes their wallet address, then use the ‘action’
+    button to edit the details or even remove members from the list.
+
+
+    ![alt_text](images/image3.png "image_tooltip")
+
+
+    7. You can as well add contributors by clicking on the ‘Add Contributor’
+    button and inputting the access level of the contributor.
+
+
+    ![alt_text](images/image4.png "image_tooltip")
+
+
+    8. Once the process is complete, announce on Discord at several times and
+    wait for the epoch to begin.
+
+    9. At the end of the allocation period, click on the ‘Export CSV’ button and
+    calculate the number of BANK to be received based on the number of GIVE
+    tokens owned by each contributor.
+
+
+    ![alt_text](images/image5.png "image_tooltip")
+  title: How is Bankless DAO using Coordinape?
