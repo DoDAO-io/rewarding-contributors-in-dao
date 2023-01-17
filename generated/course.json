@@ -67,7 +67,17 @@
           "title": "How Contributors Set Up Coordinape on Bankless DAO"
         }
       ],
-      "readings": [],
+      "readings": [
+        {
+          "uuid": "4e73e98b-0cb6-4ac0-98c4-ab72089f736f",
+          "shortTitle": "Set up Coordinape",
+          "details": "The video below explains how to set up Coordinape on Bankless DAO",
+          "title": "Set up Coordinape on Bankless DAO",
+          "type": "YoutubeVideo",
+          "url": "https://www.youtube.com/watch?v=WGVHM-aTj3o&feature=youtu.be",
+          "subTopics": []
+        }
+      ],
       "summaries": [],
       "questions": []
     }
