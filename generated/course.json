@@ -208,6 +208,36 @@
               "key": "8274293a"
             }
           ]
+        },
+        {
+          "uuid": "1c457159-41e9-47ff-beb5-cd17f4c8d911",
+          "type": "SingleChoice",
+          "content": "What tool does Bankless DAO use to compensate contributors?",
+          "hint": "NoHint",
+          "explanation": "A",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Coordinape",
+              "key": "A"
+            },
+            {
+              "content": "Dework",
+              "key": "369b5140"
+            },
+            {
+              "content": "Wonderverse",
+              "key": "33ac3400"
+            },
+            {
+              "content": "Tally",
+              "key": "aa6c3c94"
+            }
+          ]
         }
       ]
     }
