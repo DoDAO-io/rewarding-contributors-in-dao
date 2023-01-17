@@ -118,6 +118,36 @@
               "key": "4ea49ffe"
             }
           ]
+        },
+        {
+          "uuid": "cde67201-b391-46e9-af57-f7d9871b715a",
+          "type": "SingleChoice",
+          "content": "The platform designed by Bankless DAO for contributors to learn is known as?",
+          "hint": "NoHint",
+          "explanation": "C",
+          "answerKeys": [
+            "0ee01fd5"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Bankless Forum",
+              "key": "A"
+            },
+            {
+              "content": "Bankless Courses",
+              "key": "f8c63c73"
+            },
+            {
+              "content": "Bankless Academy",
+              "key": "0ee01fd5"
+            },
+            {
+              "content": "Bankless Community",
+              "key": "2507eeee"
+            }
+          ]
         }
       ]
     }
