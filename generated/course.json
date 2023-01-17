@@ -610,6 +610,36 @@
               "key": "c8fe6564"
             }
           ]
+        },
+        {
+          "uuid": "1f74d7db-f2ef-4a45-a115-471406a57086",
+          "type": "SingleChoice",
+          "content": "How many contributors are rewarded on the monthly leaderboard?",
+          "hint": "NoHint",
+          "explanation": "D",
+          "answerKeys": [
+            "25d2a8bc"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "10",
+              "key": "A"
+            },
+            {
+              "content": "2",
+              "key": "30c42f58"
+            },
+            {
+              "content": "3",
+              "key": "2b909229"
+            },
+            {
+              "content": "5",
+              "key": "25d2a8bc"
+            }
+          ]
         }
       ]
     }
