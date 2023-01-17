@@ -146,3 +146,21 @@
       key: 8b7d5339
     - content: Yearly
       key: 3b2431c1
+- uuid: 4be44eab-3eb1-4a90-a084-c856593a1f95
+  type: SingleChoice
+  content: Which of these is NOT part of the stages when setting up a round?
+  hint: NoHint
+  explanation: B
+  answerKeys:
+    - 2937cd43
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Submission
+      key: A
+    - content: Discussion
+      key: 2937cd43
+    - content: Payout
+      key: 309f6a3c
+    - content: Upload to Coordinape
+      key: dae00d44
