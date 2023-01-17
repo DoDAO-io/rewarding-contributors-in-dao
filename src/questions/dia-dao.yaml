@@ -1,0 +1,18 @@
+- uuid: b4a46d08-691d-4130-a0d6-ea18de0a4f2c
+  type: SingleChoice
+  content: What is the core function of DIA DAO?
+  hint: NoHint
+  explanation: B
+  answerKeys:
+    - 384e15ab
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Trading chart
+      key: A
+    - content: Multi-chain oracle
+      key: 384e15ab
+    - content: DeFi Infrastructure
+      key: 4768787d
+    - content: Community development
+      key: 50940b89

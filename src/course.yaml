@@ -33,6 +33,7 @@ topics:
       A multi-chain oracle that connects decentralized applications to multiple
       data sources.
     explanations: dia-dao.yaml
+    questions: dia-dao.yaml
 courseAdmins:
   - '0x47a67e14b3804dc652b3a3200d8c00d4f55abb6b'
 coursePassContent: Pass content of Course !!!!!!!!!!

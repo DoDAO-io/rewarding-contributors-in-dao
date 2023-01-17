@@ -399,7 +399,38 @@
       ],
       "readings": [],
       "summaries": [],
-      "questions": []
+      "questions": [
+        {
+          "uuid": "84eaf2b5-36fd-4bef-9070-c1f49586e982",
+          "type": "SingleChoice",
+          "content": "What is the core function of DIA DAO?",
+          "hint": "NoHint",
+          "explanation": "B",
+          "answerKeys": [
+            "384e15ab"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Trading chart",
+              "key": "A"
+            },
+            {
+              "content": "Multi-chain oracle",
+              "key": "384e15ab"
+            },
+            {
+              "content": "DeFi Infrastructure",
+              "key": "4768787d"
+            },
+            {
+              "content": "Community development",
+              "key": "50940b89"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
