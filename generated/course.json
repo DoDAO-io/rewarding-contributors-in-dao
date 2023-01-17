@@ -395,7 +395,7 @@
         {
           "key": "how-to-set-up-dework-as-a-dia-dao-contributor",
           "shortTitle": "Set up Dework",
-          "details": "The process for setting up Dework is pretty simple. Follow the steps below to get started\n\n1. Visit Dework via this [link](https://dework.xyz/) and click on 'open app' at the top right side of the screen\n\n![alt_text](images/image6.jpg \"image_tooltip\")\n\n2. Click on connect and link either your Discord or WalletConnect\n\n![alt_text](images/image7.jpg \"image_tooltip\")\n\n3. Once the process is complete, then go through the onboarding process highlighted in the onboarding section above.",
+          "details": "The process for setting up Dework is pretty simple. Follow the steps below to get started\n\n1. Visit Dework via this [link](https://dework.xyz/) and click on 'open app' at the top right side of the screen\n\n![Open Dework](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/Open_Dework_App.jpg \"Open Dework\")\n\n2. Click on connect and link either your Discord or WalletConnect\n\n![connect wallet](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/ConnectWallet_Discord_Dework.jpg \"connect wallet\")\n\n3. Once the process is complete, then go through the onboarding process highlighted in the onboarding section above.",
           "title": "How to Set Up Dework as a DIA DAO Contributor"
         }
       ],
