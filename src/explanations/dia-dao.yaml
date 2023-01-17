@@ -210,6 +210,7 @@
     is the NFT badge that is received when a contributor completes the
     onboarding task.
 - key: how-is-dia-dao-using-dework
+  title: How is DIA DAO using Dework?
   shortTitle: Dework
   details: >-
     Dework is a web3 native tool for managing projects end to end. It
@@ -232,6 +233,7 @@
 
 
     **Role Management**
+
 
     On DIA DAO, while there are generalized roles (such as DAO Applicant, DAO
     Contributor, DAO Ambassador, and DAO Leader), there are specific roles
@@ -258,6 +260,7 @@
 
 
     **Leaderboard**
+
 
     DIA DAO has a leaderboard as a way to rank contributors for work done in the
     DAO. The ranking is a result of the accumulated XP (experience points) a
@@ -345,6 +348,7 @@
 
     **Task Management**
 
+
     Tasks in DIA DAO are structured in form of bounties which are work to be
     completed by the community by selecting the person(s) to work on it after
     vetting submitted proposals by contributors. The process for this is
@@ -369,6 +373,7 @@
 
     **Combined Board**
 
+
     The combined board shows all the bounties across the DAO that are in the
     backlog, in progress, and done. Every contributor can have a good view of
     what is on the board and also what has been assigned. The image below shows
@@ -376,4 +381,3 @@
 
 
     ![alt_text](images/image5.jpg "image_tooltip")
-  title: How is DIA DAO using Dework?
