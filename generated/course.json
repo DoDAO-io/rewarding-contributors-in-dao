@@ -178,6 +178,36 @@
               "key": "3d334af4"
             }
           ]
+        },
+        {
+          "uuid": "4d4a711f-ec6b-491c-bc47-4359679f7e8e",
+          "type": "SingleChoice",
+          "content": "Who are L1 members of Bankless DAO?",
+          "hint": "NoHint",
+          "explanation": "D",
+          "answerKeys": [
+            "8274293a"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "DAO members that work hard for the DAO",
+              "key": "A"
+            },
+            {
+              "content": "DAO members that are leaders",
+              "key": "659a8ba3"
+            },
+            {
+              "content": "DAO members that vote on proposals",
+              "key": "be10eb48"
+            },
+            {
+              "content": "DAO members that hold at least 35,000 BANK tokens",
+              "key": "8274293a"
+            }
+          ]
         }
       ]
     }
