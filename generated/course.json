@@ -459,6 +459,36 @@
               "key": "5b6eb0da"
             }
           ]
+        },
+        {
+          "uuid": "281fb409-4251-475d-ad87-d55ff0ab778e",
+          "type": "SingleChoice",
+          "content": "DIA DAO has a number of guilds in the DAO. Identify the one that is NOT a guild in the following",
+          "hint": "NoHint",
+          "explanation": "C",
+          "answerKeys": [
+            "0866df88"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Copywriting",
+              "key": "A"
+            },
+            {
+              "content": "Growth & Promo",
+              "key": "dd23464b"
+            },
+            {
+              "content": "Management",
+              "key": "0866df88"
+            },
+            {
+              "content": "Tech",
+              "key": "7ca50015"
+            }
+          ]
         }
       ]
     }
