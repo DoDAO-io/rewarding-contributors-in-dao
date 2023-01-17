@@ -76,6 +76,15 @@
           "type": "YoutubeVideo",
           "url": "https://www.youtube.com/watch?v=WGVHM-aTj3o&feature=youtu.be",
           "subTopics": []
+        },
+        {
+          "uuid": "91f39763-512f-4f87-b8a9-2263769ad1ec",
+          "shortTitle": "Set up Profile",
+          "details": "The video explains how to set up your Bankless DAO profile on Coordinape\n",
+          "title": "Set up Bankless DAO Profile on Coordinape",
+          "type": "YoutubeVideo",
+          "url": "https://www.youtube.com/watch?v=N0_tBOp-UQ0&feature=youtu.be",
+          "subTopics": []
         }
       ],
       "summaries": [],
