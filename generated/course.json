@@ -298,6 +298,36 @@
               "key": "d10c92cc"
             }
           ]
+        },
+        {
+          "uuid": "b6b75632-b77b-4478-a342-4acd4e588702",
+          "type": "SingleChoice",
+          "content": "What is the period of allocating rewards in a Bankless DAO Round?",
+          "hint": "NoHint",
+          "explanation": "C",
+          "answerKeys": [
+            "8b7d5339"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Daily",
+              "key": "A"
+            },
+            {
+              "content": "Weekly",
+              "key": "88e694ec"
+            },
+            {
+              "content": "Monthly",
+              "key": "8b7d5339"
+            },
+            {
+              "content": "Yearly",
+              "key": "3b2431c1"
+            }
+          ]
         }
       ]
     }
