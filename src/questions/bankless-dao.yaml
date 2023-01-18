@@ -2,20 +2,22 @@
   type: SingleChoice
   content: Which of these is NOT a project executed by Bankless DAO?
   hint: NoHint
-  explanation: B
+  explanation: >-
+    Bankless DAO has a number of projects ranging from consulting to loans to
+    administrative functions within the DAO.
   answerKeys:
     - e52d690f
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: Degen Project
-      key: A
-    - content: Bankless Startup
-      key: e52d690f
-    - content: Bankless Consulting
-      key: f739ea9d
-    - content: Bankless Consulting Bankless Loans
-      key: 4ea49ffe
+    - key: A
+      content: Degen Project
+    - key: e52d690f
+      content: Bankless Startup
+    - key: f739ea9d
+      content: Bankless Consulting
+    - key: 4ea49ffe
+      content: Bankless Consulting Bankless Loans
 - uuid: cde67201-b391-46e9-af57-f7d9871b715a
   type: SingleChoice
   content: The platform designed by Bankless DAO for contributors to learn is known as?
