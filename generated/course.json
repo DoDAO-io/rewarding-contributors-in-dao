@@ -284,7 +284,7 @@
           "type": "SingleChoice",
           "content": "What is the period of allocating rewards in a Bankless DAO Round?",
           "hint": "NoHint",
-          "explanation": "C",
+          "explanation": "Tokens are generally distributed on a monthly basis",
           "answerKeys": [
             "8b7d5339"
           ],

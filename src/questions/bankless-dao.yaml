@@ -138,20 +138,20 @@
   type: SingleChoice
   content: What is the period of allocating rewards in a Bankless DAO Round?
   hint: NoHint
-  explanation: C
+  explanation: Tokens are generally distributed on a monthly basis
   answerKeys:
     - 8b7d5339
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: Daily
-      key: A
-    - content: Weekly
-      key: 88e694ec
-    - content: Monthly
-      key: 8b7d5339
-    - content: Yearly
-      key: 3b2431c1
+    - key: A
+      content: Daily
+    - key: 88e694ec
+      content: Weekly
+    - key: 8b7d5339
+      content: Monthly
+    - key: 3b2431c1
+      content: Yearly
 - uuid: 4be44eab-3eb1-4a90-a084-c856593a1f95
   type: SingleChoice
   content: Which of these is NOT part of the stages when setting up a round?
