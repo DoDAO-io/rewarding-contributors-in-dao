@@ -405,7 +405,7 @@
           "type": "SingleChoice",
           "content": "What is the core function of DIA DAO?",
           "hint": "NoHint",
-          "explanation": "B",
+          "explanation": "DIA (Decentralized Information Asset) is a multi-chain oracle that connects decentralized applications to multiple data sources.",
           "answerKeys": [
             "384e15ab"
           ],
