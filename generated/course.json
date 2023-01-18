@@ -495,7 +495,7 @@
           "type": "MultipleChoice",
           "content": "DIA DAO uses Dework to manage which of the following? (Select two options)",
           "hint": "NoHint",
-          "explanation": "AD",
+          "explanation": "Dework is the tool that DIA DAO uses to manage work end-to-end and assign roles and responsibilities to contributors.",
           "answerKeys": [
             "A",
             "9365f15c"
