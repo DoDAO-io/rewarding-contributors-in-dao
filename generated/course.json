@@ -782,6 +782,36 @@
               "key": "21d8bc6d"
             }
           ]
+        },
+        {
+          "uuid": "5bfe7048-1836-4ee0-b3fd-7c99f5a2110d",
+          "type": "SingleChoice",
+          "content": "A contributor with very great experience in VTOL, engineering, and web3 will most likely be at what level?",
+          "hint": "NoHint",
+          "explanation": "Contributors with very high expertise have very great experience in VTOL, engineering, and web3",
+          "answerKeys": [
+            "6ef16dfb"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Level 1",
+              "key": "A"
+            },
+            {
+              "content": "Level 3",
+              "key": "5e360a35"
+            },
+            {
+              "content": "Level 0",
+              "key": "8ffbaeec"
+            },
+            {
+              "content": "Level 5",
+              "key": "6ef16dfb"
+            }
+          ]
         }
       ]
     }
