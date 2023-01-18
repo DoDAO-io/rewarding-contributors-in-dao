@@ -84,3 +84,23 @@
       key: 8ffbaeec
     - content: Level 5
       key: 6ef16dfb
+- uuid: ac26dced-cf76-4132-8977-6ad44ff158f6
+  type: SingleChoice
+  content: Which of these is a part of the retroactive compensation track?
+  hint: NoHint
+  explanation: >
+    Retroactive compensation tracks are either bounties posted by committees or
+    funding proposals designed by contributors.
+  answerKeys:
+    - eca94e35
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Bonus
+      key: A
+    - content: Bounty
+      key: eca94e35
+    - content: Base
+      key: 0ebbccfc
+    - content: Board
+      key: 952aee2d
