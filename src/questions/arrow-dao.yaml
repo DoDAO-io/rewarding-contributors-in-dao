@@ -42,3 +42,23 @@
       key: 1471431d
     - content: Create autonomy via its protocol
       key: 6f81441e
+- uuid: 44a74931-8e86-48c2-b5d6-a94f54bff046
+  type: SingleChoice
+  content: What are the two major ways that contributors are structured in Arrow DAO?
+  hint: NoHint
+  explanation: >-
+    There are two ways that contributors at Arrow are structured. These
+    structures are expertise and commitment levels.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Expertise and Commitment Levels
+      key: A
+    - content: Expertise and Communication Levels
+      key: 8a9177a4
+    - content: Communication and Commitment Levels
+      key: 5ac0888e
+    - content: Commitment and Competence Levels
+      key: 21d8bc6d
