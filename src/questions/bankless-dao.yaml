@@ -82,20 +82,20 @@
   type: SingleChoice
   content: What tool does Bankless DAO use to compensate contributors?
   hint: NoHint
-  explanation: A
+  explanation: Coordinape is the central compensation platform on Bankless DAO
   answerKeys:
     - A
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: Coordinape
-      key: A
-    - content: Dework
-      key: 369b5140
-    - content: Wonderverse
-      key: 33ac3400
-    - content: Tally
-      key: aa6c3c94
+    - key: A
+      content: Coordinape
+    - key: 369b5140
+      content: Dework
+    - key: 33ac3400
+      content: Wonderverse
+    - key: aa6c3c94
+      content: Tally
 - uuid: dba8d0ae-4e88-42a0-a59b-54e8ec1a86a5
   type: SingleChoice
   content: In a guest pass circle, which of these statements is NOT correct?
