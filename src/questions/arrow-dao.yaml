@@ -19,3 +19,26 @@
       key: ffb9cdf5
     - content: Democratizing access to finance
       key: 9148b8d9
+- uuid: c81553ef-3c00-467c-adfb-28a848ecaa9b
+  type: MultipleChoice
+  content: How will Arrow make point-to-point travel possible? (Select all that apply)
+  hint: NoHint
+  explanation: >-
+    Having a large number of aircraft manufactured, making use of cheaper fuels
+    to run the aircraft, and creating autonomy in the process via the protocol
+    make point-to-point travel possible.
+  answerKeys:
+    - A
+    - 1471431d
+    - 6f81441e
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Cheaper fuels
+      key: A
+    - content: Make flight manuals easily accessible
+      key: 020f4b24
+    - content: Manufacturing a large number of aircrafts
+      key: 1471431d
+    - content: Create autonomy via its protocol
+      key: 6f81441e
