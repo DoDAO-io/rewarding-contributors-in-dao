@@ -156,17 +156,20 @@
   type: SingleChoice
   content: Which of these is NOT part of the stages when setting up a round?
   hint: NoHint
-  explanation: B
+  explanation: >-
+    When planning a round, a form is set up to be submitted and once that
+    process is completed, it is uploaded to Coordinape, and the round begins.
+    After contributors have gifted one another, a payout is processed.
   answerKeys:
     - 2937cd43
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: Submission
-      key: A
-    - content: Discussion
-      key: 2937cd43
-    - content: Payout
-      key: 309f6a3c
-    - content: Upload to Coordinape
-      key: dae00d44
+    - key: A
+      content: Submission
+    - key: 2937cd43
+      content: Discussion
+    - key: 309f6a3c
+      content: Payout
+    - key: dae00d44
+      content: Upload to Coordinape
