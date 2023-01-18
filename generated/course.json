@@ -586,7 +586,7 @@
           "type": "SingleChoice",
           "content": "What is the reward for the winner of the weekly leaderboard?",
           "hint": "NoHint",
-          "explanation": "A",
+          "explanation": "The winner of the weekly leaderboard gets rewarded with 500 XP",
           "answerKeys": [
             "A"
           ],

@@ -128,20 +128,20 @@
   type: SingleChoice
   content: What is the reward for the winner of the weekly leaderboard?
   hint: NoHint
-  explanation: A
+  explanation: The winner of the weekly leaderboard gets rewarded with 500 XP
   answerKeys:
     - A
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: 500 XP
-      key: A
-    - content: 800 XP
-      key: 5d55d1f5
-    - content: 200 XP
-      key: 1d5fb6c8
-    - content: 100 XP
-      key: c8fe6564
+    - key: A
+      content: 500 XP
+    - key: 5d55d1f5
+      content: 800 XP
+    - key: 1d5fb6c8
+      content: 200 XP
+    - key: c8fe6564
+      content: 100 XP
 - uuid: 1f74d7db-f2ef-4a45-a115-471406a57086
   type: SingleChoice
   content: How many contributors are rewarded on the monthly leaderboard?
