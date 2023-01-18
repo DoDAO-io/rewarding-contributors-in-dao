@@ -120,20 +120,20 @@
     The process for distributing rewards to contributors on Coordinape is known
     as?
   hint: NoHint
-  explanation: A
+  explanation: A Coordinape round is the process for distributing rewards in Bankless DAO
   answerKeys:
     - A
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: Round
-      key: A
-    - content: Circle
-      key: 280cdd8d
-    - content: GIVE
-      key: d2ace2e0
-    - content: Share
-      key: d10c92cc
+    - key: A
+      content: Round
+    - key: 280cdd8d
+      content: Circle
+    - key: d2ace2e0
+      content: GIVE
+    - key: d10c92cc
+      content: Share
 - uuid: b6b75632-b77b-4478-a342-4acd4e588702
   type: SingleChoice
   content: What is the period of allocating rewards in a Bankless DAO Round?

@@ -254,7 +254,7 @@
           "type": "SingleChoice",
           "content": "The process for distributing rewards to contributors on Coordinape is known as?",
           "hint": "NoHint",
-          "explanation": "A",
+          "explanation": "A Coordinape round is the process for distributing rewards in Bankless DAO",
           "answerKeys": [
             "A"
           ],
