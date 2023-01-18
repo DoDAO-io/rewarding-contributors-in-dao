@@ -524,9 +524,9 @@
         {
           "uuid": "ab21ccc8-b958-4946-b61a-8b36cc060171",
           "type": "SingleChoice",
-          "content": "Contributors earn XP s they complete tasks. What is the dollar value XPs earned for work within the $0 - $100 range?",
+          "content": "Contributors earn XPs when they complete tasks. What is the dollar value XPs earned for work within the $0 - $100 range?",
           "hint": "NoHint",
-          "explanation": "C",
+          "explanation": "The dollar value of XPs within the $0 - $100 range is a multiple of 10.",
           "answerKeys": [
             "7827701d"
           ],
