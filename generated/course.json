@@ -872,6 +872,36 @@
               "key": "a2a0f6b4"
             }
           ]
+        },
+        {
+          "uuid": "f1f84871-8956-4604-948b-7a1ada3cac9c",
+          "type": "SingleChoice",
+          "content": "When receiving rewards in USDC and ARROW, what is the minimum requirement for every payout?",
+          "hint": "NoHint",
+          "explanation": "The condition for receiving rewards is that a contributor must earn at least 10% of ARROW for every payment but not more than 50% ARROW while the balance is paid in USDC.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "10% ARROW tokens",
+              "key": "A"
+            },
+            {
+              "content": "50% ARROW tokens",
+              "key": "4830eaa4"
+            },
+            {
+              "content": "Choose to receive only USDC",
+              "key": "e04bd359"
+            },
+            {
+              "content": "100% ARROW tokens",
+              "key": "dc238b73"
+            }
+          ]
         }
       ]
     }
