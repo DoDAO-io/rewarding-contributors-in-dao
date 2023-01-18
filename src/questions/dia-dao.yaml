@@ -22,20 +22,23 @@
   type: SingleChoice
   content: Which of these is NOT a core goal for DIA DAO?
   hint: NoHint
-  explanation: B
+  explanation: >-
+    DIA DAO has three main goals that will increase its visibility, enhance the
+    release of unique products, and allow members to take decisions that will
+    affect the DAO
   answerKeys:
     - '27183528'
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: Awareness and Engagement
-      key: A
-    - content: Research and Development
-      key: '27183528'
-    - content: Product Development
-      key: 0dd2e84e
-    - content: Community Ownership and Governance
-      key: 5b6eb0da
+    - key: A
+      content: Awareness and Engagement
+    - key: '27183528'
+      content: Research and Development
+    - key: 0dd2e84e
+      content: Product Development
+    - key: 5b6eb0da
+      content: Community Ownership and Governance
 - uuid: 281fb409-4251-475d-ad87-d55ff0ab778e
   type: SingleChoice
   content: >-
