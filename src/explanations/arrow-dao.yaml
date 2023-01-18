@@ -414,3 +414,31 @@
     Most payments made in Arrow DAO are a combination of USDC and ARROW. The
     condition for this is that a contributor must earn at least 10% of ARROW for
     every payment but not more than 50% ARROW while the balance is paid in USDC.
+- key: tools-for-managing-payouts-in-arrow-dao
+  shortTitle: Tools
+  details: >-
+    Arrow DAO has a number of tools that it uses to compensate contributors for
+    work done. This is because Arrow DAO operates a multi-faceted compensation
+    system that involves making payments in USDC and ARROW tokens used for
+    governance, as well as ARROW tokens gifted by other contributors. The
+    following explains how Arrow DAO is using these tools.
+
+
+    * [LlamaPay](https://llamapay.io/): This is a tool used by Arrow DAO to make
+    real-time payments to contributors in the commitment compensation track. At
+    the beginning of the 2-month period that the track lasts before reassessing,
+    USDC is sent continuously until the period ends so that contributors can
+    have access to their funds at any point in time. However, for first-time
+    contributors on this track, they’ll be able to access their USDC in the
+    first 2-month period via [Sablier](https://app.sablier.finance/).
+
+    * [Dework](https://app.dework.xyz/arrow-air): This is used for task
+    management and payouts for contributors working in the retroactive
+    compensation track when bounties are assigned or funding proposals approved
+    by sub-committees in Arrow DAO.
+
+    * [Coordinape](https://coordinape.com/)**: **Arrow DAO uses Coordinape to
+    distribute ARROW tokens to contributors via a circle that allows other
+    contributors to gift other contributors. It is also via Coordinape that the
+    DAO rewards outstanding contributors when they decide to do so.
+  title: Tools for managing payouts in Arrow DAO
