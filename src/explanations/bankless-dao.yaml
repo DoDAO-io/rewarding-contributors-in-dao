@@ -173,6 +173,7 @@
     tokens equals 100 BANK tokens.
   title: How are Contributors Compensated?
 - key: how-is-bankless-dao-using-coordinape
+  title: How is Bankless DAO using Coordinape?
   shortTitle: 'Tool: Coordinape'
   details: >-
     Coordinape being the central compensation platform on Bankless DAO is used
@@ -286,7 +287,9 @@
     shown below:
 
 
-    ![alt_text](images/image1.jpg "image_tooltip")
+    ![Coordinape Round
+    Calendar](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/CoordinapeRoundCalendar.jpg
+    "Coordinape Round Calendar")
 
 
     2. Set up three Google forms for L1, L2, and guest pass circles. 
@@ -300,7 +303,7 @@
     5. Test the form in #bot-commands channel on Discord to confirm that the
     automation is live before the submission period begins.
 
-    6. Announce the submission period on Discord, Community Calls and Weekly
+    6. Announce the submission period on Discord, Community Calls, and Weekly
     Newsletters continuously for at least one week before the date.
 
     7. Open the links for submissions while still announcing.
@@ -308,7 +311,7 @@
     8. Hand over the data 1 - 2 days before submission ends so that the team can
     give Coordnipae ample time to bulk upload the data from the forms.
 
-    9. Announce allocation period to community members once uploading is
+    9. Announce the allocation period to community members once uploading is
     completed. 
 
     10. Once the allocation period is completed, the CSV file is exported and
@@ -348,7 +351,9 @@
     before now).
 
 
-    ![alt_text](images/image2.png "image_tooltip")
+    ![Create
+    Epoch](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/Coordinape_Create_Epoch.png
+    "Create Epoch")
 
 
     4. Set the duration and the start date of the epoch (allocation period).
@@ -360,14 +365,18 @@
     button to edit the details or even remove members from the list.
 
 
-    ![alt_text](images/image3.png "image_tooltip")
+    ![Coordinape
+    Actions](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/Coordinape_Actions.png
+    "Coordinape Actions")
 
 
     7. You can as well add contributors by clicking on the ‘Add Contributor’
     button and inputting the access level of the contributor.
 
 
-    ![alt_text](images/image4.png "image_tooltip")
+    ![Add
+    Contributor](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/Coordinape_Add_Contributor.png
+    "Add Contributor")
 
 
     8. Once the process is complete, announce on Discord at several times and
@@ -378,8 +387,9 @@
     tokens owned by each contributor.
 
 
-    ![alt_text](images/image5.png "image_tooltip")
-  title: How is Bankless DAO using Coordinape?
+    ![Export
+    CSV](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/Coordinape_exportCSV.png
+    "Export CSV")
 - key: how-contributors-set-up-coordinape-on-bankless-dao
   title: How Contributors Set Up Coordinape on Bankless DAO
   shortTitle: Set up Coordinape
