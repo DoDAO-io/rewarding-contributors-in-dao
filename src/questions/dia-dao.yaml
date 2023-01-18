@@ -146,17 +146,19 @@
   type: SingleChoice
   content: How many contributors are rewarded on the monthly leaderboard?
   hint: NoHint
-  explanation: D
+  explanation: >-
+    The top five contributors are rewarded monthly for having the most
+    activities on the leaderboard.
   answerKeys:
     - 25d2a8bc
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: '10'
-      key: A
-    - content: '2'
-      key: 30c42f58
-    - content: '3'
-      key: 2b909229
-    - content: '5'
-      key: 25d2a8bc
+    - key: A
+      content: '10'
+    - key: 30c42f58
+      content: '2'
+    - key: 2b909229
+      content: '3'
+    - key: 25d2a8bc
+      content: '5'
