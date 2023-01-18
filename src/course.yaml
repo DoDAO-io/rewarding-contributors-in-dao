@@ -42,6 +42,7 @@ topics:
       of air mobility by building the infrastructure required for anyone to be
       able to move from one point to the other on earth.
     explanations: arrow-dao.yaml
+    questions: arrow-dao.yaml
 courseAdmins:
   - '0x47a67e14b3804dc652b3a3200d8c00d4f55abb6b'
 coursePassContent: Pass content of Course !!!!!!!!!!

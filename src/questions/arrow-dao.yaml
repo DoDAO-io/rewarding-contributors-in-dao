@@ -1,0 +1,21 @@
+- uuid: d52d94ad-ab0d-4ee7-9cdb-7a4844dbec27
+  type: SingleChoice
+  content: Which of these statements easily represents Arrow?
+  hint: NoHint
+  explanation: >-
+    Arrow is focused on the future of air mobility by building the
+    infrastructure required for anyone to be able to move from one point to the
+    other on earth.
+  answerKeys:
+    - ffb9cdf5
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Building web3 infrastructure
+      key: A
+    - content: Making travel easier in the metaverse
+      key: 6c01a3fe
+    - content: The future of air mobility
+      key: ffb9cdf5
+    - content: Democratizing access to finance
+      key: 9148b8d9
