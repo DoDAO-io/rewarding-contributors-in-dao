@@ -656,7 +656,14 @@
       "key": "arrow-dao",
       "title": "Arrow DAO",
       "details": "Arrow is a web3 native open-source community that is focused on the future of air mobility by building the infrastructure required for anyone to be able to move from one point to the other on earth.",
-      "explanations": [],
+      "explanations": [
+        {
+          "key": "what-is-arrow",
+          "shortTitle": "Background",
+          "details": "[Arrow](https://www.arrowair.com/) is a web3 native open-source community that is focused on the future of air mobility by building the infrastructure required for anyone to be able to move from one point to another on earth. The goal is to build vertical takeoff aircraft that are affordable and can be accessed by anyone via a rideshare protocol thereby making point-to-point travel possible. This will be achieved by having a large number of aircraft manufactured, making use of cheaper fuels to run the aircraft and creating autonomy in the process via the protocol.\n\nToday, aircraft manufacturing companies have trade secrets and the process of building the systems used to operate their aircraft is accessed by only a few people in the world. Arrow has come to change this by making it open for anyone to join and provide expertise in making this a reality. By building in public, Arrow has demystified the building process and has attracted a large community of builders who are working tirelessly to birth this vision while getting rewarded for it. It is in fact why Arrow’s business logic sits on the Ethereum blockchain so that anyone who connects with what Arrow is building can join the organization without any interviews or hiring process, contribute their skills to the progress of the project, and get compensated for work done easily.\n\nIt is interesting to note that the entire engineering team will be managed virtually and this is made possible by the advancements in software technology where physical prototypes are no longer the only ways to test for progress but CAD models can be built and tested via CFD testing. Robotic factories and contracted manufacturers can then build out the solution from just anywhere. There are three major committees that make up Arrow, they include:\n\n* Engineering Team\n* Growth and Operations Team\n* Services Team\n\nEach of these committees has distinct functions and they also work cross-functionally to get work done. The engineering team is responsible for developing the hardware and software on which Arrow will operate while the growth and operations team manages the processes involved in running the DAO while creating avenues to communicate about the DAO to the public and getting more qualified people onboard the project. Finally, The services team handles the development of the software backend infrastructure.",
+          "title": "What is Arrow?"
+        }
+      ],
       "readings": [],
       "summaries": [],
       "questions": []
