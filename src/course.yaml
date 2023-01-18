@@ -35,6 +35,12 @@ topics:
       data sources.
     explanations: dia-dao.yaml
     questions: dia-dao.yaml
+  - key: arrow-dao
+    title: Arrow DAO
+    details: >-
+      Arrow is a web3 native open-source community that is focused on the future
+      of air mobility by building the infrastructure required for anyone to be
+      able to move from one point to the other on earth.
 courseAdmins:
   - '0x47a67e14b3804dc652b3a3200d8c00d4f55abb6b'
 coursePassContent: Pass content of Course !!!!!!!!!!
