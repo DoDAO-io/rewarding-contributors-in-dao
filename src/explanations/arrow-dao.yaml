@@ -49,6 +49,7 @@
     getting more qualified people onboard the project. Finally, The services
     team handles the development of the software backend infrastructure.
 - key: measurement-structure-for-contributors
+  title: Measurement structure for Contributors
   shortTitle: Contributors
   details: >-
     Contributors at Arrow DAO are people with various expertise coming together
@@ -83,7 +84,7 @@
     expertise levels as described by Arrow DAO.
 
 
-    * **Level 1: Beginning Expertise**
+    **Level 1: Beginning Expertise**
 
     * Contributor is new to VTOL, engineering, design, DAOs, and web3 in
     general.
@@ -93,7 +94,7 @@
 
     * Contributor has just started to know about Arrow.
 
-    * **Level 2: Emerging Expertise**
+    **Level 2: Emerging Expertise**
 
     * Contributor has some experience with VTOL, engineering, design, DAOs, and
     web3 in general.
@@ -103,7 +104,7 @@
 
     * Contributor has a little knowledge of Arrow.
 
-    * **Level 3: Solid Expertise**
+    **Level 3: Solid Expertise**
 
     * Contributor is experienced in VTOL, engineering, design, DAOs, and web3 in
     general.
@@ -115,7 +116,7 @@
 
     * Contributor shows promise but needs some refinement and practice
 
-    * **Level 4: High Expertise**
+    **Level 4: High Expertise**
 
     * Contributor has great experience with VTOL, engineering, design, DAOs, and
     web3 in general.
@@ -127,7 +128,7 @@
 
     * Contributor is very talented
 
-    * **Level 5: Very High Expertise**
+    **Level 5: Very High Expertise**
 
     * Contributor has very great experience with VTOL, engineering, design,
     DAOs, and web3 in general.
@@ -214,4 +215,3 @@
     * Contributor considers Arrow as 2nd, 3rd, or 4th priority
 
     * The focus of the contributor is split across projects
-  title: Measurement structure for Contributors
