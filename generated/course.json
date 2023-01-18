@@ -556,7 +556,7 @@
           "type": "SingleChoice",
           "content": "When a contributor is upgraded from the #DAO-Applicant role, what role is next?",
           "hint": "NoHint",
-          "explanation": "D",
+          "explanation": "Contributors become qualified after they have completed the onboarding task and have been selected by the team based on the quality of their work.",
           "answerKeys": [
             "c578254a"
           ],

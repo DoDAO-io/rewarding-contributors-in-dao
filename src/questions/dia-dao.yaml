@@ -108,20 +108,22 @@
     When a contributor is upgraded from the #DAO-Applicant role, what role is
     next?
   hint: NoHint
-  explanation: D
+  explanation: >-
+    Contributors become qualified after they have completed the onboarding task
+    and have been selected by the team based on the quality of their work.
   answerKeys:
     - c578254a
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: DAO Leader
-      key: A
-    - content: DAO Ambassador
-      key: 2fcb2b58
-    - content: DAO Advocate
-      key: 05e0fb9c
-    - content: DAO Contributor
-      key: c578254a
+    - key: A
+      content: DAO Leader
+    - key: 2fcb2b58
+      content: DAO Ambassador
+    - key: 05e0fb9c
+      content: DAO Advocate
+    - key: c578254a
+      content: DAO Contributor
 - uuid: e0ddef15-69cd-4e28-837b-4aa859715479
   type: SingleChoice
   content: What is the reward for the winner of the weekly leaderboard?
