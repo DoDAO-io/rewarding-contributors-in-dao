@@ -104,3 +104,23 @@
       key: 0ebbccfc
     - content: Board
       key: 952aee2d
+- uuid: bd0e2b43-10fb-42b3-be0c-c3a0c90347f4
+  type: SingleChoice
+  content: >-
+    The compensation for a hardcore Level 3 contributor on the commitment track
+    is?
+  hint: NoHint
+  explanation: A full-time level 3 contributor earns up to $7,000
+  answerKeys:
+    - 0f5bc7d6
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: $12,000
+      key: A
+    - content: $5,000
+      key: e49e7d62
+    - content: $7,000
+      key: 0f5bc7d6
+    - content: $3,350
+      key: a2a0f6b4
