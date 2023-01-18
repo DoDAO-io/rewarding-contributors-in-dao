@@ -45,20 +45,22 @@
     DIA DAO has a number of guilds in the DAO. Identify the one that is NOT a
     guild in the following
   hint: NoHint
-  explanation: C
+  explanation: >-
+    DIA DAO has guilds that work together to provide written content, get more
+    people to know about the DAO, and build products.
   answerKeys:
     - 0866df88
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: Copywriting
-      key: A
-    - content: Growth & Promo
-      key: dd23464b
-    - content: Management
-      key: 0866df88
-    - content: Tech
-      key: 7ca50015
+    - key: A
+      content: Copywriting
+    - key: dd23464b
+      content: Growth & Promo
+    - key: 0866df88
+      content: Management
+    - key: 7ca50015
+      content: Tech
 - uuid: 4d0ffd6f-623e-4117-ade8-07b83d517fc1
   type: MultipleChoice
   content: DIA DAO uses Dework to manage which of the following? (Select two options)
