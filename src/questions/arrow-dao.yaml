@@ -147,3 +147,23 @@
       key: e04bd359
     - content: 100% ARROW tokens
       key: dc238b73
+- uuid: b12c9f95-ad2c-4d33-b233-a2ccd34bdde0
+  type: SingleChoice
+  content: Which of these is NOT a tool used by Arrow DAO for compensation?
+  hint: NoHint
+  explanation: >-
+    Arrow DAO uses a combination of three tools to manage tasks, payouts, and
+    bonuses. They are LiamPay, Coordinape, and Dework.
+  answerKeys:
+    - 874644f8
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Dework
+      key: A
+    - content: Coordinape
+      key: b8dcffe4
+    - content: LiamPay
+      key: da0c7670
+    - content: Wonderverse
+      key: 874644f8
