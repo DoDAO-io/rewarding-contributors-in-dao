@@ -134,7 +134,7 @@
           "type": "SingleChoice",
           "content": "Contributors are placed in groups based on skills and experience so they can maximize work. What are these groups called?",
           "hint": "NoHint",
-          "explanation": "A",
+          "explanation": "Guilds are the structures for contribution in Bankless DAO",
           "answerKeys": [
             "A"
           ],

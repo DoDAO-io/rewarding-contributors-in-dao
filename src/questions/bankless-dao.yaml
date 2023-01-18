@@ -44,20 +44,20 @@
     Contributors are placed in groups based on skills and experience so they can
     maximize work. What are these groups called?
   hint: NoHint
-  explanation: A
+  explanation: Guilds are the structures for contribution in Bankless DAO
   answerKeys:
     - A
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: Guilds
-      key: A
-    - content: Stewards
-      key: fd1a7030
-    - content: Units
-      key: cc0eb9cf
-    - content: Factions
-      key: 3d334af4
+    - key: A
+      content: Guilds
+    - key: fd1a7030
+      content: Stewards
+    - key: cc0eb9cf
+      content: Units
+    - key: 3d334af4
+      content: Factions
 - uuid: 4d4a711f-ec6b-491c-bc47-4359679f7e8e
   type: SingleChoice
   content: Who are L1 members of Bankless DAO?
