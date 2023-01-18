@@ -215,3 +215,123 @@
     * Contributor considers Arrow as 2nd, 3rd, or 4th priority
 
     * The focus of the contributor is split across projects
+- key: how-are-contributors-compensated-54
+  shortTitle: Compensation
+  details: >-
+    Contributors at Arrow DAO earn rewards for participating in the development
+    of the DAO and its vision. There are three main channels of compensation for
+    work done in the DAO which are categorized as follows:
+
+
+    1. Base
+
+    2. Bonus
+
+    3. Ownership
+
+
+    **Base**
+
+
+    This is the core rewards received by contributors in Arrow DAO after they
+    have given their time and skills to complete tasks in the DAO. There are two
+    tracks for the base compensation and they are commitment compensation and
+    retroactive compensation tracks. Contributors can choose what tracks they
+    prefer to work with which will reflect in the way they are paid for a given
+    period. The following explain how they differ and what contributors get as
+    rewards from each of them.
+
+
+
+
+
+    * **Commitment Compensation Track**
+
+        The commitment compensation track is a balance of the commitment level of the contributor and the expected value that a contributor brings to the DAO managed every two (2) months. So, the number of hours committed and the expertise level of the contributor is used to measure the compensation of the contributor for that 2-month period. The payment is made in both USDC and ARROW token with payments made at the end of every month. The amount paid monthly for a full time contributor with an expertise level of 5 is $12,000 and other levels are a percentage of this value. This matrix table below gives an example of the commitment compensation track across expertise and commitment levels.
+
+
+    <table>
+      <tr>
+       <td rowspan="2" colspan="2" >
+       </td>
+       <td colspan="4" >
+                                Commitment Level
+       </td>
+      </tr>
+      <tr>
+       <td>Casual 
+    <p>
+
+    (25%)
+       </td>
+       <td>Standard (50%)
+       </td>
+       <td>Standard (75%)
+       </td>
+       <td>Hardcore (100%)
+       </td>
+      </tr>
+      <tr>
+       <td rowspan="5" >Expertise Level
+       </td>
+       <td>Level 5
+       </td>
+       <td>$3,000
+       </td>
+       <td>$6,000
+       </td>
+       <td>$9,000
+       </td>
+       <td>$12,000
+       </td>
+      </tr>
+      <tr>
+       <td>Level 4
+       </td>
+       <td>$2,500
+       </td>
+       <td>$5,000
+       </td>
+       <td>$7,500
+       </td>
+       <td>$10,000
+       </td>
+      </tr>
+      <tr>
+       <td>Level 3
+       </td>
+       <td>$1,750
+       </td>
+       <td>$3,500
+       </td>
+       <td>$5,250
+       </td>
+       <td>$7,000
+       </td>
+      </tr>
+      <tr>
+       <td>Level 2
+       </td>
+       <td>$1,250
+       </td>
+       <td>$2,500
+       </td>
+       <td>$3,750
+       </td>
+       <td>$5,000
+       </td>
+      </tr>
+      <tr>
+       <td>Level 1
+       </td>
+       <td>$1,000
+       </td>
+       <td>$2,000
+       </td>
+       <td>$3,000
+       </td>
+       <td>$4,000
+       </td>
+      </tr>
+    </table>
+  title: How are contributors compensated?
