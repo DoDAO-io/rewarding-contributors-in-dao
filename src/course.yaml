@@ -18,6 +18,7 @@ topics:
     title: Intoduction
     details: |
       Rewarding Contributors
+    explanations: intoduction.yaml
   - key: bankless-dao
     title: Bankless DAO
     details: >-

@@ -1,0 +1,187 @@
+- key: introduction
+  title: Introduction
+  shortTitle: Introduction
+  details: >-
+    Decentralized autonomous organizations, or DAOs, are decentralized networks
+    that are run by a set of rules encoded in smart contracts on a blockchain.
+    In order for DAOs to maintain the network, they require contributors. These
+    contributors typically provide resources to help the DAO operate and
+    function properly. They also provide the required skills needed to perform
+    various functions within the DAO such as developing products, managing
+    communities, onboarding users, and building the brand. Additionally, they
+    may also participate in decision-making processes within the DAO, helping to
+    shape its direction and determine how it should operate. Without
+    contributors, a DAO would not be able to function effectively, as it would
+    lack the necessary resources and input from its members. This
+    [article](https://mirror.xyz/roseight.eth/NgnPgGoeB3It6xXttXwssopFftaolgHH3AoJeSG4giI)
+    shows some things both DAOs and contributors can do to ease the process of
+    contributing to the DAO.
+
+
+    As DAOs grow, there is usually an increase in the number of contributors to
+    the DAO. These contributors get to set how they want to work and the length
+    of time they want to give to the DAO. DAOs also measure the work done by
+    contributors so they can track progress and reward them accordingly.
+    However, there could be some challenges with tracking the quality of work
+    done by contributors. Sometimes, even though a DAO may have a large number
+    of contributors, there may be little work done if people are not clear on
+    what they are to work on or even understand what is happening in the DAO at
+    the time.
+
+
+    Also, contributors want to be rewarded for work done in the DAO. This means
+    giving them some form of payment for tasks, projects, or bounties completed.
+    The conversations about rewarding contributors are evolving just as DAOs
+    are. DAOs need to consider what type of work should be rewarded, the value
+    of the reward that is fair, the rewards structures that are in place, and so
+    on. This guide explains some approaches to take in measuring contributions
+    in DAOs to ensure that contributors are rewarded efficiently.
+
+
+    ### **Measuring Contributions in DAOs**
+
+
+    When people join DAOs, they do so with the intention of contributing to the
+    DAO and getting rewarded afterward. However, there are many cases where
+    people join DAO communities on Discord and feel left out mostly because
+    there is a high amount of engagement on different things going on in the DAO
+    and not enough clear path for people to know how to contribute. 
+
+
+    To efficiently measure contributions, there are a number of things to have
+    in place. They include:
+
+
+    * Create a simple procedure to onboard contributors
+
+    * Enabling environment for contributors
+
+    * Define the work structure
+
+    * Setting a clear KPI
+
+
+    **Onboarding Contributors**
+
+
+    Many DAOs do not have a defined process for onboarding contributors other
+    than just joining Discord so this makes it really difficult for people to
+    blend in with the community. Many people do not go through the pain of
+    figuring things out by themselves so they join the community and do not do
+    anything meaningful. Creating a system for contributors to follow in order
+    to contribute to the DAO gives the DAO access to quality contributors who
+    know exactly how they want to contribute.
+
+
+    **Enabling Environment for Contributors**
+
+
+    This is key for every DAO since the environment created determines the level
+    of energy contributors will bring when functioning within the DAO. People
+    should be able to ask questions about processes and products and be sure to
+    get answers. Today, DAOs are constantly in need of contributors because
+    contributors get tired easily and many times, stop working. So, in addition
+    to the flexibility that DAOs bring naturally, a good environment will help
+    the DAO get quality and helpful contributions that will rank high when
+    measured.
+
+
+    **Work Structure**
+
+
+    Since DAOs are flexible, contributors can decide when and what to work on
+    depending on the availability of tasks or functions. However, a good
+    structure of both core contributors and other contributors can help the DAO
+    achieve its goals. If the DAO has only part-time contributors who work at
+    their own convenience, then the majority of the work that needs to be done
+    may never get done since there is no one to primarily hold responsible for
+    those duties. Also, if there are only core contributors, then the idea of
+    decentralization in DAOs will be defeated. So, a balance of both is
+    necessary for growth in the DAO.
+
+
+    **Setting KPIs**
+
+
+    Once a contributor goes through the process and is confirmed, the next thing
+    to ensure that the contributions are measured well is to set clear Key
+    Performance Indicators (KPIs) for different functions or skill areas.
+    Contributors should know what the KPIs are and should be dedicated to
+    achieving them. When contributors turn in their work, the community can
+    decide on the quality of work done based on the KPI set for it. This way,
+    every work is measured against a KPI or a north star metric and people are
+    encouraged to do their best work.
+
+
+    ### **Reward Structure**
+
+
+    Determining the rewards for contributions made in a DAO can be tricky.
+    Oftentimes, DAOs want to ensure that people who are compensated actually do
+    great work for the DAO and contributors want to feel adequately rewarded for
+    work done. To get a good understanding of the different reward structures,
+    including their pros and cons, read this
+    [article](https://gasless.substack.com/p/understanding-dao-incentives-and).
+
+
+    Some of the structures for rewarding contributors in DAOs include:
+
+
+    * Funding Proposals
+
+    * Collective Rewards
+
+    * Token rewards
+
+    * Grants
+
+    * Bounties
+
+
+    **Funding Proposals**
+
+
+    Contributors can request funds as rewards for work done over a given period
+    of time from the DAO. For this, it is expected that the work would have been
+    approved to be done with a number of KPIs stated to determine the completion
+    of the work. Also, an associated amount should have been approved for the
+    work to be done. Hence, once the work is done, the contributor can then put
+    up a proposal to receive the funds stipulated for the task(s).
+
+
+    **Collective Rewards**
+
+
+    Rewards are kept aside for contributors based on how valuable their work is
+    to other contributors. If it is found to be highly valuable, then a
+    predetermined amount is given to the contributor. This is to encourage
+    people to put their best foot forward when carrying out a task in the DAO. 
+
+
+    **Token Rewards**
+
+
+    As contributors put their skills forward to develop a DAO, a way to reward
+    them is to make them have a sense of ownership by rewarding them with DAO
+    tokens. When contributors are rewarded this way, they are given the power to
+    easily vote on decisions made in the DAO. So, aside from doing great work,
+    they can create proposals and even influence the direction of the DAO
+    through their votes.
+
+
+    **Grants**
+
+
+    There are cases where complex projects may be needed in a DAO or other DAOs
+    may want to build on the progress of a bigger DAO by leveraging their
+    technology to create new experiences. The DAO can set up a grant program to
+    which people can apply to fund those complex projects. Many times, these
+    projects are external and other times are led by contributors of the DAO.
+
+
+    **Bounties**
+
+
+    These are rewards for specific tasks with well-defined completion criteria
+    that DAOs open up for the public to work on. The work is usually associated
+    with a fixed reward and anyone who completes the task gets the reward.
