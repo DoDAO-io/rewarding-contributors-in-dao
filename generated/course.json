@@ -224,7 +224,7 @@
           "type": "SingleChoice",
           "content": "In a guest pass circle, which of these statements is NOT correct?",
           "hint": "NoHint",
-          "explanation": "B",
+          "explanation": "L1 and L2 can give, but only Guest Pass can receive in Guest Pass Circles",
           "answerKeys": [
             "0bffd4f2"
           ],
