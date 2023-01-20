@@ -11,7 +11,15 @@ highlights:
 publishStatus: Live
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/rewarding_contributors_course.png
-details: In this course we first ....
+details: >-
+  In this course, we will:
+
+  1. Learn about DAOs - what they are and how members participate in them.
+
+  2. Examine case studies of a few DAOs to understand how they collaborate and
+  reward their members, as well as what type of organization structure they use.
+
+  3. Look at some tools and the features they provide for collaboration
 duration: 30 mins - 1 hour
 topics:
   - key: intoduction
@@ -47,5 +55,5 @@ courseAdmins:
   - '0x47a67e14b3804dc652b3a3200d8c00d4f55abb6b'
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:
-  showExplanations: false
-  showHints: false
+  showExplanations: true
+  showHints: true

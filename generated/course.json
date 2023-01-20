@@ -2,7 +2,7 @@
   "key": "rewarding-contributors-in-daos",
   "title": "Rewarding Contributors in DAOs",
   "summary": "Learn how to reward contributors in DAOs by looking at case studies of some other DAOs, and also tool that enable rewarding contributors\n",
-  "details": "In this course we first ....",
+  "details": "In this course, we will:\n1. Learn about DAOs - what they are and how members participate in them.\n2. Examine case studies of a few DAOs to understand how they collaborate and reward their members, as well as what type of organization structure they use.\n3. Look at some tools and the features they provide for collaboration",
   "duration": "30 mins - 1 hour",
   "highlights": [
     "Introduction",
@@ -17,8 +17,8 @@
   ],
   "coursePassContent": "Pass content of Course !!!!!!!!!!",
   "topicConfig": {
-    "showExplanations": false,
-    "showHints": false
+    "showExplanations": true,
+    "showHints": true
   },
   "topics": [
     {
