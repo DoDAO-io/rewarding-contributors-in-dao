@@ -415,6 +415,7 @@
     condition for this is that a contributor must earn at least 10% of ARROW for
     every payment but not more than 50% ARROW while the balance is paid in USDC.
 - key: tools-for-managing-payouts-in-arrow-dao
+  title: Tools for managing payouts in Arrow DAO
   shortTitle: Tools
   details: >-
     Arrow DAO has a number of tools that it uses to compensate contributors for
@@ -428,20 +429,73 @@
     real-time payments to contributors in the commitment compensation track. At
     the beginning of the 2-month period that the track lasts before reassessing,
     USDC is sent continuously until the period ends so that contributors can
-    have access to their funds at any point in time. However, first-time
+    have access to their funds at any point in time. However, for first-time
     contributors on this track, they’ll be able to access their USDC in the
     first 2-month period via [Sablier](https://app.sablier.finance/).
+
 
     * [Dework](https://app.dework.xyz/arrow-air): This is used for task
     management and payouts for contributors working in the retroactive
     compensation track when bounties are assigned or funding proposals approved
-    by sub-committees in Arrow DAO.
+    by subcommittees in Arrow DAO. 
 
-    * [Coordinape](https://coordinape.com/): Arrow DAO uses Coordinape to
+
+    Arrow DAO broke down its tasks on Dework into spaces and projects. 
+
+
+    1. Spaces are either general DAO tasks or Bounties created for specific
+    functions. 
+
+
+    ![Arrow
+    spaces](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/arrow/Dework_Spaces.jpg
+    "Arrow spaces")
+
+
+    * Examples of general DAO tasks are shown in the image below
+
+
+    ![DAO General
+    Tasks](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/arrow/General%20DAO%20Tasks.jpg
+    "DAO General Tasks")
+
+
+    * Examples of bounties are shown in the image below
+
+
+    ![Arrow
+    Bounties](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/arrow/Bounties.jpg
+    "Arrow Bounties")
+
+
+    2. Arrow classifies projects as either Aircraft and AAM services on Dework.
+
+
+    ![Arrow
+    Projects](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/arrow/Dework_Projects.jpg
+    "Arrow Projects")
+
+
+    * Examples of Aircraft related tasks are shown in the image below
+
+
+    ![Arrow
+    Aircraft](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/arrow/Aircraft.jpg
+    "Arrow Aircraft")
+
+
+    * Examples of AAM services are shown in the image below
+
+
+    ![AAM
+    Services](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/arrow/AAM%20Services.jpg
+    "AAM Services")
+
+
+    * [Coordinape](https://coordinape.com/)**: **Arrow DAO uses Coordinape to
     distribute ARROW tokens to contributors via a circle that allows other
     contributors to gift other contributors. It is also via Coordinape that the
     DAO rewards outstanding contributors when they decide to do so.
-  title: Tools for managing payouts in Arrow DAO
 - key: how-to-get-started-on-arrow-dao
   shortTitle: Get Started
   details: >-
