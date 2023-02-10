@@ -1111,6 +1111,36 @@
               "key": "7c19dad9"
             }
           ]
+        },
+        {
+          "uuid": "9a69e29b-8b1b-4ec4-ba89-147e14b11846",
+          "type": "SingleChoice",
+          "content": "What are the steps to create a profile on Dework?",
+          "hint": "Nohint    ",
+          "explanation": "To create a profile on Dework, a user will connect their Discord and wallet, fill their profile, and connect social media accounts if they want.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Connect Discord and wallet, fill in profile information, connect social media accounts",
+              "key": "A"
+            },
+            {
+              "content": "Connect Discord account, connect social media accounts, fill in profile information",
+              "key": "ee9c38e2"
+            },
+            {
+              "content": "Fill in profile information, connect wallet, connect Discord account",
+              "key": "6b3d36be"
+            },
+            {
+              "content": "None of the above",
+              "key": "50f237c9"
+            }
+          ]
         }
       ]
     }
