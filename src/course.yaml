@@ -51,6 +51,11 @@ topics:
       able to move from one point to the other on earth.
     explanations: arrow-dao.yaml
     questions: arrow-dao.yaml
+  - key: tools-for-managing-payouts
+    title: Tools for Managing Payouts
+    details: >-
+      These are the tools that various DAOs work with in order to compensate
+      their contributors.
 courseAdmins:
   - '0x47a67e14b3804dc652b3a3200d8c00d4f55abb6b'
 coursePassContent: Pass content of Course !!!!!!!!!!

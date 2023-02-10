@@ -934,6 +934,15 @@
           ]
         }
       ]
+    },
+    {
+      "key": "tools-for-managing-payouts",
+      "title": "Tools for Managing Payouts",
+      "details": "These are the tools that various DAOs work with in order to compensate their contributors.",
+      "explanations": [],
+      "readings": [],
+      "summaries": [],
+      "questions": []
     }
   ]
 }
