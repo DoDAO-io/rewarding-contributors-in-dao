@@ -1,0 +1,20 @@
+- uuid: 2b0f1cbb-ad73-4d0c-a6f1-40092c6d9dee
+  type: SingleChoice
+  content: What is Coordinape used for in DAOs?
+  hint: 'Nohint    '
+  explanation: >-
+    Coordinape is a tool for managing salaries, grants and general compensation
+    in DAOs.
+  answerKeys:
+    - d8040956
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Tracking expenses
+      key: A
+    - content: Managing salaries and compensation
+      key: d8040956
+    - content: Organizing meetings
+      key: 2f515fd1
+    - content: Setting project deadlines
+      key: fad380de
