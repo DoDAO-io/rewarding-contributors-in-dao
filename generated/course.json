@@ -1171,6 +1171,36 @@
               "key": "444cff69"
             }
           ]
+        },
+        {
+          "uuid": "69351cf1-6a99-4063-a854-8be00cf1f818",
+          "type": "SingleChoice",
+          "content": "What benefits does using Astro provide for DAOs and contributors?",
+          "hint": "Nohint    ",
+          "explanation": "Astro is totally onchain as communities are bound by smart contracts which live on the Blockchain therefore ensuring that there is transparency among members of the community, decisions can also be made on-chain via voting by members of the community while funds are distributed based on voting decisions.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "On-chain decision making and transparency among community members",
+              "key": "A"
+            },
+            {
+              "content": "Access to online games and entertainment",
+              "key": "d71f4214"
+            },
+            {
+              "content": "Protection against hacking and theft of funds",
+              "key": "c684bd13"
+            },
+            {
+              "content": "Easy management of payment and compensation processes",
+              "key": "f2d19590"
+            }
+          ]
         }
       ]
     }
