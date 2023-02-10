@@ -81,3 +81,24 @@
       key: ddbc7eaf
     - content: '  To manage expenses.'
       key: fa909d46
+- uuid: 6210830c-a46d-4b5d-a2fc-5782a2e72206
+  type: SingleChoice
+  content: What is Dework?
+  hint: 'Nohint    '
+  explanation: >-
+    Dework is a platform where web3 organizations can manage tasks, get
+    contributors to access bounties either as internal or external contributors
+    and pay them for work done.
+  answerKeys:
+    - 41b32509
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: A platform for individual freelancers
+      key: A
+    - content: A platform for web3 organizations to manage tasks and pay contributors
+      key: 41b32509
+    - content: A social media platform for connecting with other freelancers
+      key: f49d4f0d
+    - content: A platform for creating NFTs
+      key: 7c19dad9
