@@ -56,6 +56,7 @@ topics:
     details: >-
       These are the tools that various DAOs work with in order to compensate
       their contributors.
+    explanations: tools-for-managing-payouts.yaml
 courseAdmins:
   - '0x47a67e14b3804dc652b3a3200d8c00d4f55abb6b'
 coursePassContent: Pass content of Course !!!!!!!!!!
