@@ -39,3 +39,24 @@
       key: 0b0b247d
     - content: A set of rules for contributors to follow
       key: 4355f358
+- uuid: b7f5185f-2197-4994-8f69-527841589d84
+  type: SingleChoice
+  content: How are rewards allocated in Coordinape?
+  hint: 'Nohint    '
+  explanation: >-
+    Coordinape has made it possible for the community to be the driver of growth
+    and rewards instead of a set of leaders or management team deciding who
+    should get rewarded.
+  answerKeys:
+    - 65c60d1b
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: By a set of leaders or management team
+      key: A
+    - content: By the community members who govern the DAO
+      key: 65c60d1b
+    - content: By the Coordinape team
+      key: b4129933
+    - content: By an automatic process
+      key: 8a1d2e33
