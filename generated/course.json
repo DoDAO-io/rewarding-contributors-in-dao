@@ -1051,6 +1051,36 @@
               "key": "8a1d2e33"
             }
           ]
+        },
+        {
+          "uuid": "cfd1a9c9-b717-4087-8a8c-570f80864a83",
+          "type": "SingleChoice",
+          "content": "What is GIVE token used for in Coordinape?",
+          "hint": "Nohint    ",
+          "explanation": "When contributors reward other contributors, they do so by gifting them GIVE tokens. GIVE is the native allocation token that has been developed by Coordinape to aid the gifting process.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "To reward contributors",
+              "key": "A"
+            },
+            {
+              "content": "To measure the value of DAO tokens",
+              "key": "92857e28"
+            },
+            {
+              "content": "To set up circles",
+              "key": "ddbc7eaf"
+            },
+            {
+              "content": "  To manage expenses.",
+              "key": "fa909d46"
+            }
+          ]
         }
       ]
     }
