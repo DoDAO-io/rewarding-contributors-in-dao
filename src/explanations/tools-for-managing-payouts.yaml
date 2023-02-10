@@ -138,3 +138,143 @@
     case, the admin of the DAO can distribute ETH based on the amount of GIVE
     tokens received to members of the circle. This is only available on Mainnet
     for now. Other L1 and L2 chains are on the roadmap.
+- key: dework
+  shortTitle: Dework
+  details: >-
+    [Dework](http://dework.xyz/) is a platform where web3 organizations can
+    manage tasks, get contributors to access bounties either as internal or
+    external contributors, and pay them for work done. DAOs can get discovered
+    easily, teams can work openly or in private while the reputation of
+    contributors increases as they get more work done. 
+
+
+    With the way Dework is set up, it works for both project leaders and
+    contributors. This means that project leaders can set up their organizations
+    on Dework and create tasks or bounties and decide the way contributors will
+    interact with those tasks. With Dework having a large base of contributors,
+    project leaders can get contributors to work on their tasks by just creating
+    them and making them accessible to contributors. 
+
+
+    Also, project leaders can make use of the in-built bounty workflow on Dework
+    to create tasks and manage payment processes from Dework directly. This is
+    done by connecting the Gnosis safe of the DAO to Dework and putting the
+    value of the task or bounty upon creation. Contributors can then see the
+    bounty, work on it, and based on predefined conditions for completion, the
+    contributor is rewarded when those conditions are met.
+
+
+    Contributors, however, can browse DAOs on Dework and join anyone they are
+    interested in They can also explore and apply to open bounties created by
+    DAOs and get paid easily while having their completed works on-chain to
+    serve as a reputation for their brand. To get an overview of what Dework is
+    and you can use it, watch the video below:
+
+
+    [![Dework
+    Walkthrough](https://img.youtube.com/vi/hyOLRGurjDc/0.jpg)](https://www.youtube.com/watch?v=hyOLRGurjDc)
+
+
+    **Getting Started on Dework**
+
+
+    As earlier mentioned, Dework works for both DAOs and contributors and as
+    such, they have varying activities on Dework. For example, DAOs need to set
+    up their organizations, create bounties, link their Discord server(s), and
+    manage payments while contributors seek DAOs, explore bounties, work on
+    approved bounties, and get paid. However, no matter the function anyone who
+    wishes to use Dework must create a profile and to do that, follow the steps
+    below:
+
+
+    1. Open [Dework](https://app.dework.xyz/) application and connect your
+    wallet
+
+    2. Connect your Discord account to Dework
+
+
+    ![Connect
+    Wallet](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/tools/Dework_Connect%20Wallet.jpg
+    "Connect Wallet")
+
+
+    3. Fill in your profile information such as a profile picture, a summary
+    about your skills, and connect social media accounts if you want.
+
+
+    There are a number of actions that DAOs can take on Dework. They include:
+
+
+    * Setting up the project/organization
+
+    * Set up workspaces
+
+    * Create bounties
+
+    * Manage Payments
+
+
+    To set up a project or organization on Dework, the first thing to do is to
+    visit the application and click on ‘create organization’. On the dialog box
+    that appears, fill in the name of the organization and click on next and the
+    organization goes live immediately.
+
+
+    ![Organization
+    name](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/tools/Dework_Create%20Organization.jpg
+    "Organization name")
+
+
+    After this process, the next thing to do is to create a workspace for the
+    DAO. DAOs can either create spaces or projects. Spaces are for general tasks
+    and bounties while projects are for specific work functions.
+
+
+    ![Spaces or
+    Projects](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/tools/Dework_Space%20or%20Projects.jpg
+    "Spaces or Projects")
+
+
+    Bounties can then be created and assigned a value so that contributors can
+    see and get involved. Every bounty is a piece of work that the DAO sets up
+    to aid the growth and success of the DAO. The DAO will also be responsible
+    for managing the payment processes so that contributors can earn rewards
+    when they engage and complete tasks.
+
+
+    ![Create
+    Bounty](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/tools/Dework_Create%20Bounty.jpg
+    "Create Bounty")
+
+
+    Furthermore, by clicking on the popular DAOs tab, contributors can see the
+    list of DAOs that are on Dework and can even search for specific DAOs that
+    they may be interested in. 
+
+
+    ![Popular
+    DAOs](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/tools/Dework_Popular%20DAOs.jpg
+    "Popular DAOs")
+
+
+    They can also explore bounties to see open tasks, the skills needed to apply
+    for the bounty, and the reward associated with it. 
+
+
+    ![Explore
+    Bounties](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/tools/Dework_Explore%20Bounties.jpg
+    "Explore Bounties")
+
+
+    Contributors can also search for bounties by using keywords or filtering the
+    bounties by date and/or size. 
+
+
+    ![Filter
+    Bounties](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/tools/Dework_Filter.jpg
+    "Filter Bounties")
+
+
+    Finally, contributors can see all the tasks that they have been assigned on
+    the task feed.
+  title: Dework
