@@ -126,3 +126,34 @@
       key: 6b3d36be
     - content: None of the above
       key: 50f237c9
+- uuid: bb2af34b-10df-4ac3-b7b6-e7b4c11763ff
+  type: SingleChoice
+  content: What are the tasks that DAOs can do on Dework?
+  hint: 'Nohint  '
+  explanation: |-
+    There are a number of actions that DAOs can take on Dework. They include:
+    Setting up the project/organization
+    Set up workspaces
+    Create bounties
+    Manage Payments
+  answerKeys:
+    - 444cff69
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: >-
+        Connect with other freelancers, set up their organizations, create
+        bounties, manage payments
+      key: A
+    - content: >-
+        Apply for Bounties from other DAOs, set up organizations, receive
+        payments
+      key: 452e529e
+    - content: >-
+        Connect with other organizations, create projects, manage payments,
+        create bounties
+      key: 569ecf05
+    - content: >-
+        Set up their organizations, create workspaces, create bounties, manage
+        payments
+      key: 444cff69
