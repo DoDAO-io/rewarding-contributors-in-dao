@@ -278,3 +278,77 @@
     Finally, contributors can see all the tasks that they have been assigned on
     the task feed.
   title: Dework
+- key: astro
+  shortTitle: Astro
+  details: >-
+    [Astro](https://astrodao.com/) is a no-code tool that allows anyone to be
+    able to create DAOs and manage complex processes such as governance and
+    compensation easily. Built on NEAR Blockchain, Astro houses hundreds of DAOs
+    on its platform and enables them to operate their internal activities such
+    as creating bounties, adding contributors to the DAO, creating and voting on
+    proposals, and of course making payment to contributors after work is
+    completed.
+
+
+    It is totally on-chain as communities are bound by smart contracts which
+    live on the Blockchain, therefore, ensuring that there is transparency among
+    members of the community, decisions can also be made on-chain via voting by
+    members of the community while funds are distributed based on voting
+    decisions.
+
+
+    While DAOs can use Astro to operate the DAO, contributors can get access to
+    bounties created by DAOs on Astro by clicking on the bounties section of the
+    application. Once a contributor finds a bounty that is in line with the
+    skills they possess, they can go ahead to apply for it.
+
+
+    To get started on Astro, contributors have to, first of all, create a
+    profile on Astro so they can get access to all the activities. To do this,
+    follow the steps stated below:
+
+
+    1. Open [Astro](https://astrodao.com/) and launch the application by
+    clicking on the ‘Launch App’ button on the landing page.
+
+
+    ![Launch
+    App](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/tools/Astro_Launch%20App.jpg
+    "Launch App")
+
+
+    2. Connect your NEAR wallet to the application and verify your wallet
+    address.
+
+
+    ![Connect NEAR
+    Wallet](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/tools/Astro_Connect%20Wallet.jpg
+    "Connect NEAR Wallet")
+
+
+    3. Once that is done, you can now explore the DAOs on Astro
+
+
+    ![Explore
+    DAOs](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/tools/Astro_View%20DAOs.jpg
+    "Explore DAOs")
+
+
+    4. Apply to join a DAO
+
+
+    ![Join
+    DAO](https://raw.githubusercontent.com/DoDAO-io/rewarding-contributors-in-dao/main/images/tools/Astro_Join%20DAO.jpg
+    "Join DAO")
+
+
+    5. Look out for bounties and lend your skills to them.
+
+
+    When a contributor applies for bounties and is given a bounty to work on,
+    they can go ahead to work on it while the DAO admins move the bounty from
+    ‘available bounty’ to ‘in progress’. Upon completion of the bounty, the
+    bounty is now moved to ‘completed’ and the contributor can claim the reward
+    after all reviews have been made and a confirmation that the bounty is
+    completed.
+  title: Astro
