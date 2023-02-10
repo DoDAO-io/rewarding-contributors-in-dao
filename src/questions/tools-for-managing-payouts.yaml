@@ -18,3 +18,24 @@
       key: 2f515fd1
     - content: Setting project deadlines
       key: fad380de
+- uuid: 1cae0898-b389-4722-b8dd-9ba09989b2b9
+  type: SingleChoice
+  content: What is an epoch in Coordinape?
+  hint: 'Nohint    '
+  explanation: >-
+    An epoch is considered the period of time it takes for contributors to work,
+    and allocate rewards to others based on the perceived value of the work done
+    by a contributor.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: A period of time for contributors to work and receive rewards
+      key: A
+    - content: A meeting of DAO members
+      key: b16bfca2
+    - content: A voting process in DAOs
+      key: 0b0b247d
+    - content: A set of rules for contributors to follow
+      key: 4355f358
